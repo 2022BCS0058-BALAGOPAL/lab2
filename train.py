@@ -48,4 +48,3 @@ model = Lasso(alpha=0.1)
 from sklearn.linear_model import Ridge
 model = Ridge(alpha=1.0)
 
-
